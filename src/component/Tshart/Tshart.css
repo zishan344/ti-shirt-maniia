@@ -1,0 +1,11 @@
+.T-Shart {
+  height: 400px;
+  border: 1px solid lightgrey;
+  border-radius: 14px;
+}
+.T-Shart img {
+  height: 250px;
+}
+.T-Shart button {
+  cursor: pointer;
+}
